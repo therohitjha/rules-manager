@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rules-manager/static/css/main.324b7294.chunk.css",
+    "main.js": "/rules-manager/static/js/main.68439851.chunk.js",
+    "main.js.map": "/rules-manager/static/js/main.68439851.chunk.js.map",
+    "runtime-main.js": "/rules-manager/static/js/runtime-main.810f1b3a.js",
+    "runtime-main.js.map": "/rules-manager/static/js/runtime-main.810f1b3a.js.map",
+    "static/js/2.e7216dd1.chunk.js": "/rules-manager/static/js/2.e7216dd1.chunk.js",
+    "static/js/2.e7216dd1.chunk.js.map": "/rules-manager/static/js/2.e7216dd1.chunk.js.map",
+    "index.html": "/rules-manager/index.html",
+    "precache-manifest.c0ab73efceba652594a3f7a48fbfe140.js": "/rules-manager/precache-manifest.c0ab73efceba652594a3f7a48fbfe140.js",
+    "service-worker.js": "/rules-manager/service-worker.js",
+    "static/css/main.324b7294.chunk.css.map": "/rules-manager/static/css/main.324b7294.chunk.css.map",
+    "static/js/2.e7216dd1.chunk.js.LICENSE.txt": "/rules-manager/static/js/2.e7216dd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.810f1b3a.js",
+    "static/js/2.e7216dd1.chunk.js",
+    "static/css/main.324b7294.chunk.css",
+    "static/js/main.68439851.chunk.js"
+  ]
+}
